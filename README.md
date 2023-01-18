@@ -16,6 +16,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
    <img align="center" alt="Python" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
+    <img align="center" alt="C#" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  
 </div>
  
