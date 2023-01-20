@@ -26,7 +26,7 @@
   <a href="https://instagram.com/iyuriwolf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-fujimoto-wolf-b89196161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:iyuriwolf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://programathor.com.br/users/198746" target="_blank"><img src="<i class="fa fa-laptop" aria-hidden="true"></i>" target="_blank"></a>
+ 
  
 
  
